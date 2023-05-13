@@ -110,12 +110,16 @@ img {
     border: none;
 }
 
+.happy-clients {
+    margin-left: 80px;
+}
+
 .column-clients {
     float: left;
     width: 30%;
     padding: 10px;
-    margin-left: 30px;
-    padding-top: 90px;
+    margin-left: 10px;
+    padding-top: 40px;
     text-align: center;
 
 }
