@@ -124,3 +124,35 @@ img {
 
 }
 
+.column4{
+    background-color: antiquewhite;
+    margin-top: 500px;
+    text-align: center;
+    padding-bottom: 200px;
+
+}
+h7{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+    font-weight: bold;
+}
+.app{
+    width: 200px;
+    height: 100px;
+    margin-bottom: 70px;
+    margin-left: 20px;
+    background-color: antiquewhite;
+}
+
+ .play{
+width: 100px;
+height:50px;
+margin-bottom: 100px;
+margin-left: 20px;
+background-color: antiquewhite;
+ }
+ .rental{
+    width: 150px;
+    height: 300px;
+    margin-left: 200px;
+ }
