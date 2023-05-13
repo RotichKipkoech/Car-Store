@@ -1,0 +1,29 @@
+body{
+    background-color:bisque;
+}
+
+.nav-bar{
+border-bottom: 1px solid black;
+}
+li{
+    display: inline-block;
+    padding:30px;
+}
+.column-a{
+    float:left;
+    width: 33.33%;
+    margin-left: 25px;
+}
+.column-b{
+    width: 33.33%;
+    float: left;
+    margin-bottom:80px ;
+}
+li button{
+    background-color: rgb(241,94,26
+    );
+    border-radius: 5px;
+    font-weight: bold;
+    border: none;
+    padding: 5px 15px;
+}
