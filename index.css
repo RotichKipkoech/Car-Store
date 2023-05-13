@@ -109,3 +109,13 @@ img {
     font-weight: 600;
     border: none;
 }
+
+.column-clients {
+    float: left;
+    width: 30%;
+    padding: 10px;
+    margin-left: 30px;
+    padding-top: 90px;
+    text-align: center;
+
+}
