@@ -1,5 +1,5 @@
 body{
-    background-color:bisque;
+    background-color: white;
 }
 
 .nav-bar{
@@ -13,6 +13,7 @@ li{
     float:left;
     width: 33.33%;
     margin-left: 25px;
+    font-size: 200%;
 }
 .column-b{
     width: 33.33%;
@@ -22,8 +23,89 @@ li{
 li button{
     background-color: rgb(241,94,26
     );
-    border-radius: 5px;
+    border-radius: 7px;
     font-weight: bold;
     border: none;
     padding: 5px 15px;
+}
+.page1{
+    float:left;
+    clear: left;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+.home-img{
+    width: 500px;
+    height: 500px;
+    margin-left: 400px;
+    margin-bottom: 300px;
+    border-bottom: 2px solid white;
+    box-shadow: 5px 10px 10px #888888;
+    background-color: white;
+    
+}
+.btn-buy {
+    border-radius: 3px;
+    padding: 10px 15px;
+}
+
+.btn-rent {
+    border-radius: 3px;
+    padding: 10px 15px;
+    background-color: white;
+    border: 1px solid orange;
+    color: orange;
+}
+
+.top-rated {
+    padding-top: -700px;
+
+}
+
+.top-items {
+    padding: 13px 50px;
+    border: 1px solid grey;
+    background-color: aliceblue;
+}
+
+.mercedes {
+    padding: 13px 50px;
+    border: none;
+    background-color: rgb(239, 110, 12);
+}
+
+.column-cars{
+    float: left;
+    width: 30%;
+    padding: 10px;
+    margin-left: 30px;
+    padding-top: 90px;
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    height: 450px;
+    border-radius: 5px;
+  }
+
+@media screen and (max-width: 600px) {
+    .column-cars {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+  }
+
+img {
+    width: 100%;
+    height: 280px;
+
+    background-color: wheat;
+}
+.more-info {
+    background-color: rgb(202, 69, 7);
+    border-radius: 3px;
+    padding: 10px 12px;
+    font-weight: 600;
+    border: none;
 }
