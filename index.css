@@ -5,7 +5,7 @@ body{
 .nav-bar{
 border-bottom: 1px solid black;
 }
-li{
+.rated{
     display: inline-block;
     padding:30px;
 }
@@ -163,4 +163,34 @@ background-color: antiquewhite;
     margin-left: 800px;
     margin-top: -600px;
  }
+ h8{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+ }
+ .column5{
+    float: left;
+    width: 20%;
+    margin-left: 30px;
+ }
+ .column6{
+    float: left;
+    
+    width: 20%;
+ }
+ .column7{
+    float: left;
+    width: 20%;
+ }
  
+ input{
+    display: list-item;
+    border-radius: 5px;
+    padding: 10px;
+    border: 3px solid orangered;
+    margin: 5px;
+ }
+ .submit{
+    background-color: orangered;
+    border: none;
+    padding: 5px 19px;
+ }
