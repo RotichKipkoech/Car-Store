@@ -3,7 +3,7 @@ Car shop is selling of new brand and used cars. Its the best Motor hub in Kenya
 
 ### Author 
 
-###KENNEDY ROTTICH 
+KENNEDY ROTTICH 
 
 ## Technologies Used
 ````
@@ -24,10 +24,16 @@ git push origin master
 ## Link to live site
 #### https://rotichkipkoech.github.io/Car-Store/
 
+## For Any Information Contact
+````
+Name:- KENNEDY ROTICH
+Email:- kennrottich@gmail.com
+phone No:- +254 725 761 234
+````
 
 ## LICENSE
- 
-Copyright (c) 2023 KENEDY ROTICH
+ ````
+Copyright (c) 2023 [KENEDY ROTICH] 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -46,3 +52,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+````

@@ -71,8 +71,8 @@ li button{
     border-radius: 3px;
     padding: 10px 15px;
     background-color: white;
-    border: 1px solid orange;
-    color: orange;
+    border: 1px solid orangered;
+    color: orangered;
 }
 
 .top-rated {
@@ -107,7 +107,8 @@ li button{
     height: 450px;
     border-radius: 5px;
   }
-
+/* insterting tool to help view in all devices e.g 
+mobile phones or tablets */
 @media screen and (max-width: 600px) {
     .column-cars {
       width: 100%;
