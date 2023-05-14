@@ -3,7 +3,7 @@ Car shop is selling of new brand and used cars. Its the best Motor hub in Kenya
 
 ### Author 
 
-<--- KENNEDY ROTTICH --->
+###KENNEDY ROTTICH 
 
 ## Technologies Used
 ````
