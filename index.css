@@ -20,6 +20,24 @@ border-bottom: 1px solid black;
     float: left;
     margin-bottom:80px ;
 }
+.log{
+    float: right;
+}
+
+.logos1{
+    border: none;
+    border-radius: 10px;
+    font-weight: 800;
+    background-color: orangered;
+    padding: 1px 30px;
+}
+.logos{
+    background-color:white;
+    border-radius: 10px;
+    padding: 1px 30px;
+    margin: 8px;
+    border: 1px solid lightgrey;
+}
 li button{
     background-color: rgb(241,94,26
     );
@@ -162,6 +180,7 @@ background-color: antiquewhite;
     height: 300px;
     margin-left: 800px;
     margin-top: -600px;
+    margin-bottom: 20px;
  }
  h8{
     font-family: 'Times New Roman', Times, serif;
@@ -193,4 +212,36 @@ background-color: antiquewhite;
     background-color: orangered;
     border: none;
     padding: 5px 19px;
+ }
+ .mercedes1{
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    border: 5px solid none;
+    background-color: orangered;
+ }
+ .Audi{
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    border: 5px solid none;
+ }
+ .Honda{
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    border: 5px solid none;
+    
+ }
+ .Toyota{
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    border: 5px solid none;
+ }
+ .Mazda{
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    border: 5px solid none;
  }
