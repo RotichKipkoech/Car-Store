@@ -76,7 +76,7 @@ li button{
 }
 
 .top-rated {
-    padding-top: -700px;
+    padding-top: -100px;
 
 }
 
@@ -144,7 +144,7 @@ li button{
 
 .column4{
     background-color: antiquewhite;
-    margin-top: 500px;
+    margin-top: 600px;
     text-align: center;
     padding-bottom: 200px;
     border-radius: 50px;
