@@ -21,8 +21,12 @@ git add .
 git commit -m "first commit"
 git push origin master
 ````
+
 ## Link to live site
 #### https://rotichkipkoech.github.io/Car-Store/
+
+## Sketch Of the website
+<img width="1440" alt="Landing-page" src="https://github.com/RotichKipkoech/Car-Store/assets/132645931/2fc56444-a974-4ca4-9ce5-422c692dd358">
 
 ## For Any Information Contact
 ````

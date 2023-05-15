@@ -109,7 +109,7 @@ li button{
   }
 /* insterting tool to help view in all devices e.g 
 mobile phones or tablets */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 500px) {
     .column-cars {
       width: 100%;
       display: block;
@@ -150,11 +150,12 @@ mobile phones or tablets */
     margin-top: 600px;
     text-align: center;
     padding-bottom: 200px;
-    border-radius: 50px;
+    border-radius: 20px;
     border-width:30%;
     border-bottom: 50px;
     margin-bottom: 300px;
     height: 30px;
+    box-shadow: 15px 8px 5px #888888;
 
 }
 h7{
